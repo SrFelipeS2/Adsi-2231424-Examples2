@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eX3U8v7Y6mwLGjJO4aTW4twD2RzfY4cOHHJi9WlyHVjd7AGZQQx+0KbJCwwvzJMsDvrCIC4gQE1G9HFxbVQpug==",
+  "success": true,
+  "projectFilePath": "D:\\ADSI\\JULIAN\\VISUAL 2019\\GUIA03-CONDICIONALES\\EJERCICIO5POOGUIA2\\EJERCICIO5POOGUIA2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

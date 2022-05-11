@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4aeQIy9IzYUqu8pYiLVbuFQ3sgowoEK45jgVxR4ByRiUAs45Quf7295VtYNRpXw7cmV2ury8o0D9QMGLoBWdQ==",
+  "success": true,
+  "projectFilePath": "D:\\ADSI\\JULIAN\\VISUAL 2019\\GUIA03-CONDICIONALES\\recuperacion-manuel\\recuperacion-manuel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

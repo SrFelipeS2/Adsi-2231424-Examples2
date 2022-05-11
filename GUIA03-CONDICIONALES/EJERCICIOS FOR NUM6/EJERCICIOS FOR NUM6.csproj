@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EJERCICIOS_FOR_NUM6</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EJERCICIOS FOR NUM7\EJERCICIOS FOR NUM7.csproj" />
+  </ItemGroup>
+
+</Project>

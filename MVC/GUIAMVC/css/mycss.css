@@ -1,0 +1,13 @@
+
+body header div  div i.tamaño{
+    height: 100px;
+    width: 200px;
+}
+body header div div svg.tamaño{
+    height: 40px;
+    width: 40px;
+}
+body header div div.h75px{
+    height: 80px;
+    background-color: #107aa7;
+}

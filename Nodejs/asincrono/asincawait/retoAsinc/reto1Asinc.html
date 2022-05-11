@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>FetchApi!</title>
+    <style>
+        body div div div nav ul li a.tamaño{
+            width: 35px;
+            height: 30px;
+            font-size: 10px;          
+
+        }
+        body div div div nav ul{
+            overflow-y: scroll !important;
+            overflow-x:  hidden !important;
+            width: 850px;
+            height: 82px;
+            justify-content: center;
+
+        }
+       
+        body.fondo{
+            
+            background-color: #519872;
+        }
+        body div h1.color{
+            padding: 5px;
+            border-color: #0D1F2D!important;
+            background-color: #FBF2C0;
+        }
+        body div div div div.color1{
+            border-color: #503B31 !important;
+            color: black !important;
+
+        }
+        body div div div div div p.color3{
+            background: #FBF2C0 !important;
+            color: black;
+        }
+       
+    </style>
+</head>
+
+<body class="fondo">
+    <div class="container">
+        <h1 class="text-center color border  fw-bolder fst-italic border-4 rounded-3 lh-lg mx-auto my-4" style="width: 60rem">Welcome to Api YU - GUI - OH</h1>
+
+        <div class="row">
+            <div>
+                <h3 class="text-dark fw-bolder fst-italic text-center">select the number of cards for page </h3>
+                <select class="mx-auto form-select  form-select-sm" style="width: 20rem" name="" id="pag">
+                    <option value="0" disabled selected>select...</option>
+                    <option value=50>50</option>
+                    <option value=100>100</option>
+                    <option value=150>150</option>
+                    <option value=200>200</option>
+                    <option value=250>250</option>
+                </select>
+            </div>
+            
+            <div class="col text-center my-2">
+                <div id="Api-Paises" class="col-12 d-flex  color1 flex-wrap">
+
+                </div>
+            </div>
+            <div id="paginacionApi">
+                <nav class="my-3" aria-label="Page navigation example">
+                    <ul class=" mx-auto pagination justify-content-center"> 
+                        <li  id="pagination" class="tamaño">
+
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <script src="reto1Asinc.js"></script>
+
+</body>
+</html>

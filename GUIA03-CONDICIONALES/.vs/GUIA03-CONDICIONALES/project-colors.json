@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2697f24-98fb-4f89-aa9e-45f6c4b07d03": {
+      "ProjectGuid": "c2697f24-98fb-4f89-aa9e-45f6c4b07d03",
+      "DisplayName": "proyectoCleanCode",
+      "ColorIndex": 0
+    },
+    "b8610d8b-3c36-47dd-8e2c-a18838514739": {
+      "ProjectGuid": "b8610d8b-3c36-47dd-8e2c-a18838514739",
+      "DisplayName": "EJERCICIO Do WHILE 7",
+      "ColorIndex": 1
+    },
+    "a0484fe2-5d55-4df3-b7ac-ca17163f77af": {
+      "ProjectGuid": "a0484fe2-5d55-4df3-b7ac-ca17163f77af",
+      "DisplayName": "EJERCICIO1",
+      "ColorIndex": 2
+    },
+    "a2ec5741-7051-430c-9cb7-586d9b34b4f1": {
+      "ProjectGuid": "a2ec5741-7051-430c-9cb7-586d9b34b4f1",
+      "DisplayName": "EJERCICIOS FOR NUM6",
+      "ColorIndex": 3
+    },
+    "d1522222-3379-4b49-b46d-c46088e04b29": {
+      "ProjectGuid": "d1522222-3379-4b49-b46d-c46088e04b29",
+      "DisplayName": "ARRAYSBIDIMENSIONALES1",
+      "ColorIndex": 4
+    },
+    "0ca67e0e-da8c-4dd7-b34e-2c3dbe117692": {
+      "ProjectGuid": "0ca67e0e-da8c-4dd7-b34e-2c3dbe117692",
+      "DisplayName": "EJERCICIOARRAY1",
+      "ColorIndex": 5
+    },
+    "f6f173be-4f0b-4e94-98bb-fc7ec3924824": {
+      "ProjectGuid": "f6f173be-4f0b-4e94-98bb-fc7ec3924824",
+      "DisplayName": "ARRAYSBIDIMENSIONALES3",
+      "ColorIndex": 6
+    },
+    "affa6fd5-ddba-4742-8993-705b3817a003": {
+      "ProjectGuid": "affa6fd5-ddba-4742-8993-705b3817a003",
+      "DisplayName": "EJERCICIO Do WHILE 1",
+      "ColorIndex": 7
+    },
+    "d0e963e6-04ba-4fd0-856f-e2d1b0f66153": {
+      "ProjectGuid": "d0e963e6-04ba-4fd0-856f-e2d1b0f66153",
+      "DisplayName": "EJERCICIO WHILE 1",
+      "ColorIndex": 8
+    },
+    "e9d456c6-4c1d-4159-91dc-63af2f54b5c4": {
+      "ProjectGuid": "e9d456c6-4c1d-4159-91dc-63af2f54b5c4",
+      "DisplayName": "EJERCICIO-C-A4",
+      "ColorIndex": 9
+    },
+    "e71bd2e0-8918-474e-b0a0-068d7d6d698d": {
+      "ProjectGuid": "e71bd2e0-8918-474e-b0a0-068d7d6d698d",
+      "DisplayName": "EJERCICIO-C-A1",
+      "ColorIndex": 10
+    },
+    "7905ae30-4ab6-432a-9115-89e3007ef3e2": {
+      "ProjectGuid": "7905ae30-4ab6-432a-9115-89e3007ef3e2",
+      "DisplayName": "EJERCICIOS FOR NUM1",
+      "ColorIndex": 11
+    },
+    "74202840-8452-4730-b6d0-940cac050e7f": {
+      "ProjectGuid": "74202840-8452-4730-b6d0-940cac050e7f",
+      "DisplayName": "INSTRUMENTODEEVALUACION01TRIMESTRE",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

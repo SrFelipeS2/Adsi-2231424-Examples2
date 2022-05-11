@@ -1,0 +1,14 @@
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\bin\Debug\netcoreapp3.1\recuperacion-manuel.exe
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\bin\Debug\netcoreapp3.1\recuperacion-manuel.deps.json
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\bin\Debug\netcoreapp3.1\recuperacion-manuel.runtimeconfig.json
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\bin\Debug\netcoreapp3.1\recuperacion-manuel.runtimeconfig.dev.json
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\bin\Debug\netcoreapp3.1\recuperacion-manuel.dll
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\bin\Debug\netcoreapp3.1\recuperacion-manuel.pdb
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.csproj.AssemblyReference.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.AssemblyInfoInputs.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.AssemblyInfo.cs
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.csproj.CoreCompileInputs.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.dll
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.pdb
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\recuperacion-manuel\obj\Debug\netcoreapp3.1\recuperacion-manuel.genruntimeconfig.cache

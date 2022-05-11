@@ -1,0 +1,5 @@
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\proyectoCleanCode\obj\Debug\net6.0\proyectoCleanCode.csproj.AssemblyReference.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\proyectoCleanCode\obj\Debug\net6.0\proyectoCleanCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\proyectoCleanCode\obj\Debug\net6.0\proyectoCleanCode.AssemblyInfoInputs.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\proyectoCleanCode\obj\Debug\net6.0\proyectoCleanCode.AssemblyInfo.cs
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\proyectoCleanCode\obj\Debug\net6.0\proyectoCleanCode.csproj.CoreCompileInputs.cache

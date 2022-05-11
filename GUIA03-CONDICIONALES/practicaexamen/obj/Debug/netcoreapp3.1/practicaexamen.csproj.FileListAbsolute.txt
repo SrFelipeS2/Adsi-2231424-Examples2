@@ -1,0 +1,14 @@
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\bin\Debug\netcoreapp3.1\practicaexamen.exe
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\bin\Debug\netcoreapp3.1\practicaexamen.deps.json
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\bin\Debug\netcoreapp3.1\practicaexamen.runtimeconfig.json
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\bin\Debug\netcoreapp3.1\practicaexamen.runtimeconfig.dev.json
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\bin\Debug\netcoreapp3.1\practicaexamen.dll
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\bin\Debug\netcoreapp3.1\practicaexamen.pdb
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.csproj.AssemblyReference.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.AssemblyInfoInputs.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.AssemblyInfo.cs
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.csproj.CoreCompileInputs.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.dll
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.pdb
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.genruntimeconfig.cache
+D:\ADSI\JULIAN\VISUAL 2019\GUIA03-CONDICIONALES\practicaexamen\obj\Debug\netcoreapp3.1\practicaexamen.GeneratedMSBuildEditorConfig.editorconfig
