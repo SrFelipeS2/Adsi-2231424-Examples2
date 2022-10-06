@@ -1,0 +1,4 @@
+rutas que debo acceder al momento de exponer:
+http://localhost:3000/api
+http://localhost:3000/api/login 
+http://localhost:3000/api/posts -- post -- Authorization -- Bearer token
